@@ -22,10 +22,10 @@
 
 
 
-- 정수 N개의 합 | [문제 이동](https://www.acmicpc.net/problem/15596)
-- 피보나치 함수 | [문제 이동](https://www.acmicpc.net/problem/1003)
-- 한수 | [문제 이동](https://www.acmicpc.net/problem/1065)
-- 셀프 넘버 | [문제 이동](https://www.acmicpc.net/problem/4673)
+- 15596 | 정수 N개의 합 | [문제 이동](https://www.acmicpc.net/problem/15596)
+- 1003 | 피보나치 함수 | [문제 이동](https://www.acmicpc.net/problem/1003)
+- 1065 | 한수 | [문제 이동](https://www.acmicpc.net/problem/1065)
+- 4673 | 셀프 넘버 | [문제 이동](https://www.acmicpc.net/problem/4673)
 
 
 
