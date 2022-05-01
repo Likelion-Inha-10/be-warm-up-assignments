@@ -34,4 +34,4 @@
 
 - 각 문제는 각각의 파이썬 파일로 만들어서 제출하며 파일명은 문제 번호로 하여 아래와 같이 제출합니다.
 
-![]()
+![1](https://github.com/Likelion-Inha-10/be-warm-up-assignments/blob/%ED%95%9C%EC%A7%80%ED%9B%88/assets/images/1.png)
