@@ -1,2 +1,2 @@
-def solve(a):
+def solve(a): # sum
     return sum(a)
