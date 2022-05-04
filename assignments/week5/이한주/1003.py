@@ -10,7 +10,7 @@ def fibonacci(n):
         return fibonacci(n-1)+fibonacci(n-2)
 """
 def fib(n):
-
+ 
  T=input()
  for i in range(T):
     N=input()
