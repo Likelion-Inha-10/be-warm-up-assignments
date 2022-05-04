@@ -1,5 +1,6 @@
 num=int(input())
 
+
 if num<100:
     print(num)
     101

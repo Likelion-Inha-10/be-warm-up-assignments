@@ -11,6 +11,7 @@ def self_num(n):
         
     return num
 
+
 num_list=[]
 
 for i in range(10000):
